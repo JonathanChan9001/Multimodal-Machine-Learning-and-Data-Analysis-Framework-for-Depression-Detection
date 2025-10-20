@@ -108,6 +108,8 @@ Run `video_openface.ipynb` to extract video features:
 
 ### Step 2: Experimental Evaluation
 
+Note: Before running the notebook, update the base paths and embedding file paths inside `FinalExperimentation.ipynb` (or any helper config) to point to the local directories where you downloaded the `embeddings/` files (e.g., `/path/to/embeddings/text_data_utterance_with_labels.pkl`). The notebook assumes relative paths to `embeddings/` in the repo; change these to your local absolute or project-relative paths if your embeddings are stored elsewhere.
+
 Run `FinalExperimentation.ipynb` to execute all 16 experimental configurations:
 
 **Modality Combinations**:
