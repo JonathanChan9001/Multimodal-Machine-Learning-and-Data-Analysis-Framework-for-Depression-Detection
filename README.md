@@ -18,6 +18,7 @@ This repository contains the complete experimental pipeline for multimodal depre
 │   └── video_data_with_labels.pkl              # OpenFace features (104-dim)
 ├── environment.yml                             # Conda environment specification
 └── README.md                                   # This file
+```
 
 ## Dataset
 
