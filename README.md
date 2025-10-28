@@ -202,7 +202,7 @@ This code is released under the MIT License. See LICENSE for details.
 ## Contact
 
 **Author**: Jonathan Chan Jia Hao  
-**Email**: jonathan.chan@student.monash.edu  
+**Email**: jcha0091@student.monash.edu  
 **Supervisor**: Dr. Lim Chern Hong  
 **Institution**: School of Information Technology, Monash University Malaysia
 
