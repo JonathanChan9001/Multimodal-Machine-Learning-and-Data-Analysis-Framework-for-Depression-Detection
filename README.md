@@ -197,7 +197,7 @@ And the original E-DAIC dataset:
 
 This code is released under the MIT License. See LICENSE for details.
 
-**Dataset License**: E-DAIC data usage is governed by USC's data sharing agreement. Users must comply with original dataset terms.
+**Dataset License**: E-DAIC data usage is governed by USC's data sharing agreement. Users must comply with original dataset terms and conditions.
 
 ## Contact
 
